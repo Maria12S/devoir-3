@@ -1,4 +1,4 @@
-
+// premier essaie 
 //let button= document.querySelector(button)
 /*function validerCommentaire(event){
     //empecher le rechargement de la page
@@ -23,7 +23,7 @@ if (champ1===''|| champ2 ===''||champ3===''){
 /*document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('espace').addEventListener('submit', function(event) {
         validerCommentaire(event);
-   
+ 
 //button.addEventListener('click',validerCommentaire)
 
 let nouveauCommentaire = document.createElement('div');
