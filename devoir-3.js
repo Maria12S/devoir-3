@@ -39,6 +39,8 @@ let nouveauCommentaire = document.createElement('div');
 
  let listeCommentaires = document.getElementById('comment-list');
         listeCommentaires.appendChild(nouveauCommentaire);*/
+
+        
 document.addEventListener('DOMContentLoaded', function() {
     // Fonction pour valider et ajouter un commentaire
     function validerEtAjouterCommentaire(event) {
