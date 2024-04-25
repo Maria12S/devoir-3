@@ -37,3 +37,5 @@ document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('espace').addEventListener('submit', validerEtAjouterCommentaire);
 });
          
+// j'ai eu un problème avec mon ancien repository donc j'ai dû en refaire un alors que j'avais deja terminer 
+// c'est pour ca que je n'ai qu'un main et pas de branches . 
